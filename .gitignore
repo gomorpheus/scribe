@@ -1,0 +1,5 @@
+/build/
+scribe-core/build
+.gradle
+.idea
+scribe-core/test-data/*
